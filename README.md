@@ -1,11 +1,11 @@
 # Q-LNK_
-Q-Lnk is a app that connects drivers and passengers, enabling them to meet their transportation needs with ease.
 
 <img width="2900" height="300" alt="glide" src="https://github.com/user-attachments/assets/83c423f7-9e9f-4713-a941-9fbbd5a04032" />
 
 ---
 
 ## 📌 Overview   
+Q-Lnk is a app that connects drivers and passengers, enabling them to meet their transportation needs with ease.
 
 - **Passengers** can post ride requests with location, date, time, and extra details.  
 - **Drivers** can browse requests and send price offers.  
