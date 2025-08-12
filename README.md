@@ -1,7 +1,7 @@
 # Q-LNK_
 Q-Lnk is a app that connects drivers and passengers, enabling them to meet their transportation needs with ease.
 
-<img width="2900" height="300" alt="glide" src="https://github.com/user-attachments/assets/6ed3133e-a067-4c4b-a342-8133ee8f5f18" />
+<img width="2900" height="300" alt="glide" src="https://github.com/user-attachments/assets/83c423f7-9e9f-4713-a941-9fbbd5a04032" />
 
 ---
 
@@ -49,7 +49,7 @@ Illustration-based UI
 
 ## 📸 Preview  
 
-<img width="600" height="200" alt="glidekk" src="https://github.com/user-attachments/assets/3de908dd-c765-45a4-9630-affc26d82fa6" />
+<img width="600" height="200" alt="glidekk" src="https://github.com/user-attachments/assets/a09270c6-e3a4-489b-8676-1784f025c1ed" />
 
 
 ---
